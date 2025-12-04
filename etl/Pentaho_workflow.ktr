@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <transformation>
   <info>
     <name>Pentaho_workflow</name>
@@ -469,7 +468,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>../etl/bank_transactions_data_edited.csv</filename>
+    <filename>D:\Data-engineering\etl\bank_transactions_data_edited  - new data.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
